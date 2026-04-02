@@ -1,7 +1,7 @@
 {
-  "name": "turtlemod-website",
+  "name": "turtlemod-editor",
   "version": "1.0.0",
-  "description": "The official TurtleMod website.",
+  "description": "A web-based editor for TurtleMod projects.",
   "author": "ThatBobo",
   "license": "MIT",
   "private": true,
