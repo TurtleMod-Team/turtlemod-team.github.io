@@ -1,11 +1,7 @@
 # 🐢 TurtleMod Website
 
-The official website for **TurtleMod**, built with **Vite**, **React**, and **TypeScript**. 
-This site serves as the home for updates, documentation, and future information about the project.
-
-## 🚀 Status
-**TurtleMod v1.0.0 is live (The website)** 
-This release marks the first public version of the site, deployed automatically through GitHub Actions to GitHub Pages.
+The Editor for **TurtleMod** projects, built with **Vite**, **React**, and **TypeScript**. 
+This site serves as the edtor for **TurtleMod**, as also the projects.
 
 ## 📦 Development
 
